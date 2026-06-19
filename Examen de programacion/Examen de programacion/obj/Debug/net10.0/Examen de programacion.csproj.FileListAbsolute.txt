@@ -1,0 +1,15 @@
+C:\C# desde cero\Examen de programacion\Examen de programacion\bin\Debug\net10.0\Examen de programacion.exe
+C:\C# desde cero\Examen de programacion\Examen de programacion\bin\Debug\net10.0\Examen de programacion.deps.json
+C:\C# desde cero\Examen de programacion\Examen de programacion\bin\Debug\net10.0\Examen de programacion.runtimeconfig.json
+C:\C# desde cero\Examen de programacion\Examen de programacion\bin\Debug\net10.0\Examen de programacion.dll
+C:\C# desde cero\Examen de programacion\Examen de programacion\bin\Debug\net10.0\Examen de programacion.pdb
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.AssemblyInfoInputs.cache
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.AssemblyInfo.cs
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.csproj.CoreCompileInputs.cache
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.dll
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\refint\Examen de programacion.dll
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.pdb
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.genruntimeconfig.cache
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\ref\Examen de programacion.dll
+C:\C# desde cero\Examen de programacion\Examen de programacion\obj\Debug\net10.0\Examen de programacion.sourcelink.json
